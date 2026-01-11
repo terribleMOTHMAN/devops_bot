@@ -1,4 +1,5 @@
 # devops_bot
+![dark-souls-defeated](https://github.com/user-attachments/assets/4afe19fd-5295-4125-bf7a-65d2653f628c)
 
 Проект состоит из двух веток:
 
