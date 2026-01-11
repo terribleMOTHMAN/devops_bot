@@ -1,0 +1,8 @@
+[db_primary]
+db-primary ansible_host=192.168.136.151 ansible_user=smirnov
+
+[db_replica]
+db-replica ansible_host=192.168.136.152 ansible_user=smirnov
+
+[bot]
+tg-bot ansible_host=192.168.136.153 ansible_user=smirnov
