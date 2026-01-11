@@ -16,7 +16,7 @@
 Пример `.env`:
 
 ```
-TOKEN=PASTE_TELEGRAM_BOT_TOKEN
+TOKEN=TOKEN
 DB_NAME=db_customers
 DB_USER=postgres
 DB_PASSWORD=1234
